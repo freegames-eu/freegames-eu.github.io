@@ -28546,12 +28546,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 80px}
+.u-header .u-sheet-1 {min-height: 96px}
 .u-header .u-menu-1 {margin: 22px auto 0 -71px}
 .u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0}
 .u-header .u-nav-2 {font-size: 1rem; letter-spacing: 0}
-.u-header .u-text-1 {font-weight: 900; margin: -36px 14px 60px 26px} 
-@media (max-width: 1199px){ .u-header .u-menu-1 {margin-left: 0}
+.u-header .u-text-1 {font-weight: 900; margin: -36px 14px 21px 26px} 
+@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 96px}
+.u-header .u-menu-1 {margin-left: 0}
 .u-header .u-text-1 {margin-top: -36px; margin-left: 0; margin-right: 0} }
 
 
